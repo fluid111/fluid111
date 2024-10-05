@@ -1,9 +1,5 @@
 ## Hi , I'm Fluid
 
-![My Holopin Badge](https://holopin.me/fluidcoder)]
-![My Holopin Badge](https://holopin.me/fluidcoder)]
-![My Holopin Badge](https://holopin.io/@fluidcoder)]
-
 <!--
 **fluid111/fluid111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
