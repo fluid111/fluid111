@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ fluid!;" />
 </h1>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
 <h3 align="center">A passionate fullstack developer</h3>
 
 <br/>
@@ -45,8 +50,18 @@ I'm currently working on Django
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fluid111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fluid111&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=fluid111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fluid111&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fluid111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
@@ -60,11 +75,3 @@ I'm currently working on Django
 
 <br/>
 
-
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
