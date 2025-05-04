@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- 
+I'm currently working on Django 
 
  </div>
  
@@ -26,6 +26,13 @@
 <br/>
 <hr/>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fluid111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fluid111&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fluid111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=fluid111&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -52,3 +59,12 @@
 <br/>
 
 <br/>
+
+
+
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
