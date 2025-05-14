@@ -51,11 +51,6 @@ I'm currently working on Django
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=fluid111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fluid111&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
